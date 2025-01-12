@@ -1,4 +1,4 @@
-Here’s a breakdown of the steps I followed while working on this project:
+Emre Şen 31227
 
 ### 1. **Importing Libraries**
    I started by importing the libraries I needed:
