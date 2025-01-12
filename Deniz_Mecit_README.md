@@ -1,7 +1,7 @@
 Author: Deniz Mecit
 Date: 12 January 2025
 
-#Project Overview
+# Project Overview
 
 I have developed a regression workflow on Instagram post/profile data with the goal of predicting a numeric engagement metric (such as popularity) on a transformed (log) scale. This solution integrates numerical and textual features:
 	•	BERT embeddings of textual data (biography, category name, entities, captions).
