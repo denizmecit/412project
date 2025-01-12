@@ -52,7 +52,7 @@ return np.mean((log_y_true - log_y_pred) 2)
 ```
 
 ### Project Files
-- `project-explore.ipynb`: Main notebook containing the classification models
+- `project_explore_Ali_copy.ipynb`: Main notebook containing the classification models
 - Turkish stopwords implementation
 - Feature extraction functions
 - Model evaluation metrics
